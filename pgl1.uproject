@@ -2,5 +2,10 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.26",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"TargetPlatforms": [
+		"AllDesktop",
+		"WindowsNoEditorWin32",
+		"WindowsNoEditor"
+	]
 }
