@@ -12,3 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+# Do not ignore source, config and plugins dirs.
+!/Source/**
+!/Config/**
+!/Plugins/**
